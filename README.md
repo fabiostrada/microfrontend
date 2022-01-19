@@ -121,4 +121,4 @@ Visit [Nx Cloud](https://nx.app/) to learn more.
 
 ## Tutorial
 
-Visit [How to setup a Micro Frontend with Angular and Nx](https://nx.dev/guides/setup-mfe-with-angular) to learn mode.
+Visit [How to setup a Micro Frontend with Angular and Nx](https://nx.dev/guides/setup-mfe-with-angular) to learn more.
