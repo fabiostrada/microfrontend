@@ -18,8 +18,9 @@ The project consists of:
 This will contain the layout of the dashboard and the content that can only be viewed by an authenticated and authorized user.
 
 
+
 <p><b>Login app</b></p>
-This will contain the forms and logic for authenticating and authorizing a user
+This will contain the forms and logic for authenticating and authorizing a user.
 There's a one user to log in:
 
 Username: demo
