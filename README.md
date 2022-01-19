@@ -28,8 +28,9 @@ Password: demo
 
 To lunch:
 
-1. Login App: nx run login:serve
-2. Dashboard: nx run dashboard:serve-mfe
+1. Install nx: npm install -g nx  (Visit [Rx](https://nx.dev/getting-started/nx-setup) to learn more)
+2. Login App: nx run login:serve
+3. Dashboard: nx run dashboard:serve-mfe
 
 
 
