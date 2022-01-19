@@ -8,6 +8,27 @@ This project was generated using [Nx](https://nx.dev).
 
 🔎 **Smart, Fast and Extensible Build System**
 
+
+## Architecture 
+
+The project consists of:
+
+Admin Dashboard app
+This will contain the layout of the dashboard and the content that can only be viewed by an authenticated and authorized user.
+
+Login app
+This will contain the forms and logic for authenticating and authorizing a user
+There's a one user to log in:
+Username: demo
+Password: demo
+
+To lunch:
+
+1. Login App: nx run login:serve
+2. Dashboard: nx run dashboard:serve-mfe
+
+
+
 ## Adding capabilities to your workspace
 
 Nx supports many plugins which add capabilities for developing different types of applications and different tools.
