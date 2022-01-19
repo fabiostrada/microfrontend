@@ -13,12 +13,13 @@ This project was generated using [Nx](https://nx.dev).
 
 The project consists of:
 
-Admin Dashboard app
+<p>Admin Dashboard app</p>
 This will contain the layout of the dashboard and the content that can only be viewed by an authenticated and authorized user.
 
-Login app
+<p>Login app</p>
 This will contain the forms and logic for authenticating and authorizing a user
 There's a one user to log in:
+
 Username: demo
 Password: demo
 
